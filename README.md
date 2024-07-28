@@ -1,2 +1,2 @@
 # Birthday-Invite-Project
-Leveraging the knowledge I've gained, I crafted a straightforward party invitation using only HTML.
+In this project, I applied my HTML skills to design a straightforward and effective party invitation.
